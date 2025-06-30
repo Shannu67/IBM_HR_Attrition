@@ -7,10 +7,11 @@ This project dives deep into employee attrition trends using the IBM HR dataset,
 
 ## 🖼️ Power BI Dashboard Highlights
 
-![Executive Summary]
-![Detailed Analysis]
-![Attrition Trends]
-![Recommendations]
+![Executive Summary](screenshots/Screenshot1.png)
+![Detailed Analysis](screenshots/Screenshot2.png)
+![Attrition Trends](screenshots/Screenshot3.png)
+![Recommendations](screenshots/Screenshot4.png)
+
 **Dashboard Insights**:
 - **Total Employees**: 1470 | **Attrition Count**: 237 | **Attrition Rate**: 16.12%
 - **Overtime Employees**: 30.53% attrition rate
